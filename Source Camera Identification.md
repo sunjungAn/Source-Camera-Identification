@@ -147,9 +147,63 @@ aim to enhance performance by fusing multiple models and features together
 
 choosing different areas in the image could have some effect on the performance.
 
+<img src="C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210715093918098.png" alt="image-20210715093918098" style="zoom: 50%;" />
+
+
+
+
+
++ PRNU can be extracted noise form an image 
++ CFA demosaicing and JPEG compression can be applied during image acquisition.
+
+
+
+**Bondi**
+
+only select for training the pixel patches whose average values are close to half of the image dynamic range.
+
+Pixel patches with higher measure value are used to train the CNN model.
+
+
+
+**Guera**
+
+proposed a CNN-based solution to estimate, for each pixel patch, a value representing the camera-model-attribution reliabilily.
+
+
+
+**Yang**
+
+adopted a different approach where pixel patches were separated into three subsets according to their mean and variance
+
+--> a different CNN model would be trained on each subset.
+
+
+
+**dynamic range of a patch is considered to be the best descriptor for its usefulness for the task at hand.**
+
+
+
+
+
+## 5. Classifier
+
++ two-stage learning strategies by feeding the features extracted by a CNN model into a different classifier 
+
+  > such as SVM, ERT, cosine silmilarity measure, nearest mean score, and deep learning architecture with squeeze and excitation block.
+
++ theses classifiers can achieve better performance with respect to simple softmax layers
+
+
+
+## 6. Summary
 
 
 
 
 
 
+
+![image-20210715100749974](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210715100749974.png)
+
+![image-20210715100811438](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210715100811438.png)
