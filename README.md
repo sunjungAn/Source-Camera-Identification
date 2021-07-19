@@ -10,3 +10,9 @@ Pengpen Yang, Daniele Baracchi, Rongrong Ni, Yao Zhao, Fabrizio Argeti, Alessand
 
 #### feedback
 + Does not contain information about image forensics
+
+
+
+
+# JPEG Compression
+Kamal, U.; Rafi, A.M.; Hoque, R.; Das, S.; Abrar, A.; Hasan, M. Application of DenseNet in Camera Model Identification and Post-processing Detection
