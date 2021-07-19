@@ -6,3 +6,6 @@ Pengpen Yang, Daniele Baracchi, Rongrong Ni, Yao Zhao, Fabrizio Argeti, Alessand
 
 1. Introduction
 2. Source Camera Identification
+
+#### feedback
++ Does not contain information about image forensics
