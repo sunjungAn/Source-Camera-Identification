@@ -15,4 +15,6 @@ Pengpen Yang, Daniele Baracchi, Rongrong Ni, Yao Zhao, Fabrizio Argeti, Alessand
 
 
 # JPEG Compression
-Kamal, U.; Rafi, A.M.; Hoque, R.; Das, S.; Abrar, A.; Hasan, M. Application of DenseNet in Camera Model Identification and Post-processing Detection
+Kamal, U.; Rafi, A.M.; Hoque, R.; Das, S.; Abrar, A.; Hasan, M. Application of DenseNet in Camera Model Identification and Post-processing Detection\
+
+Kuzin, Artur, et al. "Camera model identification using convolutional neural networks." 2018 IEEE International Conference on Big Data (Big Data). IEEE, 2018.
